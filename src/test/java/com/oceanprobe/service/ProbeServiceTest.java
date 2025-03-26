@@ -1,4 +1,3 @@
-/*
 package com.oceanprobe.service;
 
 import com.oceanprobe.model.Command;
@@ -48,4 +47,3 @@ class ProbeServiceTest {
         assert probeService.getDirection() == Direction.WEST;
     }
 }
-*/
